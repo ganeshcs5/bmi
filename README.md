@@ -7,3 +7,6 @@ npm run test
 
 ## To run the project please run the below command:
 node index.js
+
+## To change the values of the input:
+please edit the data in the value.json
